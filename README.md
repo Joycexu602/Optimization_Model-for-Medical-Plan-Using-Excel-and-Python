@@ -1,4 +1,5 @@
-# medical-plan-for-diabetes
+# Optimal medical plan for diabetes
+
 On average, patients with diagnosed diabetes have medical expenditure 2.6 higher than those without diabetes.
 Many diabetes patients cannot afford their medications.
 
